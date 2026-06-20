@@ -194,23 +194,23 @@ void lcd_routine(void)
             BUF_cut_tail12();
             //-------------------------------------
             BUF_Gotoxy(15 * 6, 4);
-            BUF_PrintStr("Speed ", 0);
+            BUF_PrintStr("Speed", 0);
             BUF_Gotoxy(15 * 6, 5);
             BUF_PrintDig24(speed, 0);
             BUF_cut_tail24();
             BUF_Gotoxy(17 * 6, 3);
             if (wheel == 0)
             {
-                BUF_PrintStr("6.5  ", 0);
+                BUF_PrintStr("6.5 ", 0);
             }
 
             if (wheel == 1)
             {
-                BUF_PrintStr("8.0  ", 0);
+                BUF_PrintStr("8.0 ", 0);
             }
             if (wheel == 2)
             {
-                BUF_PrintStr("8.5  ", 0);
+                BUF_PrintStr("8.5 ", 0);
             }
             if (wheel == 3)
             {
