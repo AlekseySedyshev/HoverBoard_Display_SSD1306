@@ -2,7 +2,9 @@ At the first, it's was writen and tested on that project: https://github.com/lar
 For connect to hoverboard this display you need 
 1) Find in the project file: SRC\mine.c,
 2) Find in the file next strings:
+
 //---------------------------------------------
+
 #else
           // printf("in1:%i in2:%i cmdL:%i cmdR:%i BatADC:%i BatV:%i TempADC:%i Temp:%i velL:%i velR:%i curL:%i curR:%i\r\n",
           printf("in1:%i in2:%i cmdL:%i cmdR:%i BatADC:%i BatV:%i TempADC:%i Temp:%i velL:%i velR:%i\r\n",
@@ -19,9 +21,13 @@ For connect to hoverboard this display you need
             // rtY_Left.iq,              //11: motor q axis current
             // rtY_Right.iq              //12: motor q axis current
           );
+          
 //---------------------------------------------
+
 And change it on:
+
 //---------------------------------------------------------------------------------------------------------------
+
 #else
           printf("in1:%i in2:%i cmdL:%i cmdR:%i BatADC:%i BatV:%i TempADC:%i Temp:%i velL:%i velR:%i curL:%i curR:%i\r\n",
           //printf("in1:%i in2:%i cmdL:%i cmdR:%i BatADC:%i BatV:%i TempADC:%i Temp:%i velL:%i velR:%i\r\n",
