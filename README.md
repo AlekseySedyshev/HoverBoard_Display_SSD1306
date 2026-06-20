@@ -1,7 +1,7 @@
 At the first, it's was writen and tested on that project: https://github.com/larsmm/hoverboard-firmware-hack-FOC-bbcar
 For connect to hoverboard this display you need 
 1) Find in the project file: SRC\mine.c,
-2) Find in the file next strings:
+2) Open file and find next strings:
 
 //---------------------------------------------
 
@@ -24,7 +24,7 @@ For connect to hoverboard this display you need
           
 //---------------------------------------------
 
-And change it on:
+Change it on:
 
 //---------------------------------------------------------------------------------------------------------------
 
@@ -44,5 +44,7 @@ And change it on:
             left_dc_curr,              //11: Left motor  current
             right_dc_curr              //12: Right motor current
           );
+          
 //----------------------------------------------------------------------------------------------------------------
+
 Save the project, compile and upload it in the your hoverboard
