@@ -1,3 +1,6 @@
+CPU - CH32V003J4M6  Small Risc-V  8pins MCU
+LCD - SSD1306
+
 At the first, it's was writen and tested on that project: https://github.com/larsmm/hoverboard-firmware-hack-FOC-bbcar
 For connect to hoverboard this display you need 
 1) Find in the project file: SRC\mine.c,
