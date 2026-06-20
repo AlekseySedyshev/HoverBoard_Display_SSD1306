@@ -1,0 +1,134 @@
+[
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Core\\core_riscv.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Core\\core_riscv.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Core\\core_riscv.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Core\\core_riscv.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_adc.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_adc.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_adc.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_adc.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_dbgmcu.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_dbgmcu.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_dbgmcu.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_dbgmcu.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_dma.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_dma.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_dma.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_dma.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_exti.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_exti.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_exti.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_exti.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_flash.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_flash.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_flash.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_flash.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_gpio.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_gpio.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_gpio.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_gpio.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_i2c.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_i2c.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_i2c.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_i2c.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_iwdg.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_iwdg.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_iwdg.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_iwdg.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_misc.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_misc.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_misc.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_misc.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_opa.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_opa.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_opa.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_opa.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_pwr.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_pwr.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_pwr.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_pwr.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_rcc.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_rcc.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_rcc.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_rcc.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_spi.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_spi.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_spi.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_spi.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_tim.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_tim.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_tim.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_tim.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_usart.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_usart.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_usart.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_usart.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_wwdg.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_wwdg.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Peripheral\\SRC\\ch32v00x_wwdg.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Peripheral\\SRC\\ch32v00x_wwdg.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "C:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -x assembler-with-cpp -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Startup\\startup_ch32v00x.S.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Startup\\startup_ch32v00x.S",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\Startup\\startup_ch32v00x.S",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\Startup\\startup_ch32v00x.S.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\User\\SSD1306_DMA.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\User\\SSD1306_DMA.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\User\\SSD1306_DMA.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\User\\SSD1306_DMA.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\User\\ch32v00x_it.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\User\\ch32v00x_it.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\User\\ch32v00x_it.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\User\\ch32v00x_it.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\User\\main.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\User\\main.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\User\\main.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\User\\main.c.obj"
+},
+{
+  "directory": "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build",
+  "command": "c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe -DDEBUG=1 -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/User -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Core -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Debug -IC:/RISC-V/CH32V003/CH32V003_SSD1306_dma/Peripheral/inc -g -std=gnu11 -march=rv32ec -mabi=ilp32e -misa-spec=2.2 -msmall-data-limit=0 -msave-restore -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-common -Wunused -Wuninitialized -o CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\User\\system_ch32v00x.c.obj -c C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\User\\system_ch32v00x.c",
+  "file": "C:\\RISC-V\\CH32V003\\CH32V003_SSD1306_dma\\User\\system_ch32v00x.c",
+  "output": "CMakeFiles\\CH32V003_SSD1306_dma.elf.dir\\User\\system_ch32v00x.c.obj"
+}
+]

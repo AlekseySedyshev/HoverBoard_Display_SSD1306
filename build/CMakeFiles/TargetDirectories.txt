@@ -1,0 +1,3 @@
+C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build/CMakeFiles/CH32V003_SSD1306_dma.elf.dir
+C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build/CMakeFiles/edit_cache.dir
+C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build/CMakeFiles/rebuild_cache.dir

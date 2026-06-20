@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,376 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineSystem.cmake:200 (message)"
+      - "CMakeLists.txt:66 (PROJECT)"
+    message: |
+      The target system is: Generic - 1 - 
+      The host system is: Windows - 10.0.26200 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:66 (PROJECT)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: c:/RISC-V/xpack-riscv-none-elf-gcc/bin/riscv-none-elf-gcc.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+      
+      The C compiler identification is GNU, found in:
+        C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build/CMakeFiles/4.0.0-rc1/CompilerIdC/a.out
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:66 (PROJECT)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: c:/RISC-V/xpack-riscv-none-elf-gcc/bin/riscv-none-elf-g++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+      
+      The CXX compiler identification is GNU, found in:
+        C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build/CMakeFiles/4.0.0-rc1/CompilerIdCXX/a.out
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake:1230 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineASMCompiler.cmake:139 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "CMakeLists.txt:66 (PROJECT)"
+    message: |
+      Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+      riscv-none-elf-gcc.exe (xPack GNU RISC-V Embedded GCC x86_64) 12.2.0
+      Copyright (C) 2022 Free Software Foundation, Inc.
+      This is free software; see the source for copying conditions.  There is NO
+      warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake:81 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:66 (PROJECT)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build/CMakeFiles/CMakeScratch/TryCompile-z1ghoo"
+      binary: "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build/CMakeFiles/CMakeScratch/TryCompile-z1ghoo"
+    cmakeVariables:
+      CMAKE_C_FLAGS: ""
+      CMAKE_C_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build/CMakeFiles/CMakeScratch/TryCompile-z1ghoo'
+        
+        Run Build Command(s): C:/WCH/Ninja/ninja.exe -v cmTC_cf201
+        [1/2] c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe   -std=gnu11   -v -o CMakeFiles/cmTC_cf201.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCCompilerABI.c"
+        Using built-in specs.
+        COLLECT_GCC=c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe
+        Target: riscv-none-elf
+        Configured with: /Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/sources/gcc-12.2.0/configure --prefix=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc --prefix=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc --infodir=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/share/doc/info --mandir=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/share/doc/man --htmldir=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/share/doc/html --pdfdir=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/share/doc/pdf --build=x86_64-pc-linux-gnu --host=x86_64-w64-mingw32 --target=riscv-none-elf --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libsanitizer --disable-libssp --disable-nls --disable-shared --disable-threads --disable-tls --enable-checking=release --enable-languages=c,c++,fortran --enable-mingw-wildcard --with-gmp=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/libs --with-newlib --with-pkgversion='xPack GNU RISC-V Embedded GCC x86_64' --with-gnu-as --with-gnu-ld --with-system-zlib --with-sysroot=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/riscv-none-elf --with-native-system-header-dir=/include --with-abi=ilp32 --with-arch=rv32imac --enable-multilib
+        Thread model: single
+        Supported LTO compression algorithms: zlib
+        gcc version 12.2.0 (xPack GNU RISC-V Embedded GCC x86_64) 
+        COLLECT_GCC_OPTIONS='-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_cf201.dir/CMakeCCompilerABI.c.obj' '-c' '-march=rv32imac' '-mabi=ilp32' '-misa-spec=20191213' '-march=rv32imac' '-dumpdir' 'CMakeFiles/cmTC_cf201.dir/'
+         c:/risc-v/xpack-riscv-none-elf-gcc/bin/../libexec/gcc/riscv-none-elf/12.2.0/cc1.exe -quiet -v -iprefix c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/ -isysroot c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../riscv-none-elf C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_cf201.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -march=rv32imac -mabi=ilp32 -misa-spec=20191213 -march=rv32imac -std=gnu11 -version -o C:\\Users\\user\\AppData\\Local\\Temp\\cckjsSwf.s
+        GNU C11 (xPack GNU RISC-V Embedded GCC x86_64) version 12.2.0 (riscv-none-elf)
+        	compiled by GNU C version 11.2.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.24-GMP
+        
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        ignoring duplicate directory "c:/risc-v/xpack-riscv-none-elf-gcc/lib/gcc/../../lib/gcc/riscv-none-elf/12.2.0/include"
+        ignoring nonexistent directory "c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../riscv-none-elf/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/lib/gcc/riscv-none-elf/12.2.0/../../../../include"
+        ignoring duplicate directory "c:/risc-v/xpack-riscv-none-elf-gcc/lib/gcc/../../lib/gcc/riscv-none-elf/12.2.0/include-fixed"
+        ignoring duplicate directory "c:/risc-v/xpack-riscv-none-elf-gcc/lib/gcc/../../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include"
+        ignoring duplicate directory "c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../riscv-none-elf/include"
+        #include "..." search starts here:
+        #include <...> search starts here:
+         c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/include
+         c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/include-fixed
+         c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include
+        End of search list.
+        GNU C11 (xPack GNU RISC-V Embedded GCC x86_64) version 12.2.0 (riscv-none-elf)
+        	compiled by GNU C version 11.2.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.24-GMP
+        
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        Compiler executable checksum: 7fec2cd4a37ba8613cae242a4d4a5a44
+        COLLECT_GCC_OPTIONS='-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_cf201.dir/CMakeCCompilerABI.c.obj' '-c' '-march=rv32imac' '-mabi=ilp32' '-misa-spec=20191213' '-march=rv32imac' '-dumpdir' 'CMakeFiles/cmTC_cf201.dir/'
+         c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/bin/as.exe -v --traditional-format -march=rv32imac -march=rv32imac -mabi=ilp32 -misa-spec=20191213 -o CMakeFiles/cmTC_cf201.dir/CMakeCCompilerABI.c.obj C:\\Users\\user\\AppData\\Local\\Temp\\cckjsSwf.s
+        GNU assembler version 2.38 (riscv-none-elf) using BFD version (xPack GNU RISC-V Embedded GCC x86_64) 2.38
+        COMPILER_PATH=c:/risc-v/xpack-riscv-none-elf-gcc/bin/../libexec/gcc/riscv-none-elf/12.2.0/;c:/risc-v/xpack-riscv-none-elf-gcc/bin/../libexec/gcc/;c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/bin/
+        LIBRARY_PATH=c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/;c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/;c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/;c:/risc-v/xpack-riscv-none-elf-gcc/bin/../riscv-none-elf/lib/
+        COLLECT_GCC_OPTIONS='-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_cf201.dir/CMakeCCompilerABI.c.obj' '-c' '-march=rv32imac' '-mabi=ilp32' '-misa-spec=20191213' '-march=rv32imac' '-dumpdir' 'CMakeFiles/cmTC_cf201.dir/CMakeCCompilerABI.c.'
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f libcmTC_cf201.a && C:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-ar.exe qc libcmTC_cf201.a  CMakeFiles/cmTC_cf201.dir/CMakeCCompilerABI.c.obj && C:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-ranlib.exe libcmTC_cf201.a && cd ."
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake:189 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:66 (PROJECT)"
+    message: |
+      Parsed C implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/include]
+          add: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/include-fixed]
+          add: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include]
+        end of search list found
+        collapse include dir [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/include] ==> [C:/RISC-V/xpack-riscv-none-elf-gcc/lib/gcc/riscv-none-elf/12.2.0/include]
+        collapse include dir [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/include-fixed] ==> [C:/RISC-V/xpack-riscv-none-elf-gcc/lib/gcc/riscv-none-elf/12.2.0/include-fixed]
+        collapse include dir [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include] ==> [C:/RISC-V/xpack-riscv-none-elf-gcc/riscv-none-elf/include]
+        implicit include dirs: [C:/RISC-V/xpack-riscv-none-elf-gcc/lib/gcc/riscv-none-elf/12.2.0/include;C:/RISC-V/xpack-riscv-none-elf-gcc/lib/gcc/riscv-none-elf/12.2.0/include-fixed;C:/RISC-V/xpack-riscv-none-elf-gcc/riscv-none-elf/include]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake:225 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:66 (PROJECT)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
+        ignore line: [Change Dir: 'C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build/CMakeFiles/CMakeScratch/TryCompile-z1ghoo']
+        ignore line: []
+        ignore line: [Run Build Command(s): C:/WCH/Ninja/ninja.exe -v cmTC_cf201]
+        ignore line: [[1/2] c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe   -std=gnu11   -v -o CMakeFiles/cmTC_cf201.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCCompilerABI.c"]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-gcc.exe]
+        ignore line: [Target: riscv-none-elf]
+        ignore line: [Configured with: /Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/sources/gcc-12.2.0/configure --prefix=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc --prefix=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc --infodir=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/share/doc/info --mandir=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/share/doc/man --htmldir=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/share/doc/html --pdfdir=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/share/doc/pdf --build=x86_64-pc-linux-gnu --host=x86_64-w64-mingw32 --target=riscv-none-elf --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libsanitizer --disable-libssp --disable-nls --disable-shared --disable-threads --disable-tls --enable-checking=release --enable-languages=c,c++,fortran --enable-mingw-wildcard --with-gmp=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/libs --with-newlib --with-pkgversion='xPack GNU RISC-V Embedded GCC x86_64' --with-gnu-as --with-gnu-ld --with-system-zlib --with-sysroot=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/riscv-none-elf --with-native-system-header-dir=/include --with-abi=ilp32 --with-arch=rv32imac --enable-multilib]
+        ignore line: [Thread model: single]
+        ignore line: [Supported LTO compression algorithms: zlib]
+        ignore line: [gcc version 12.2.0 (xPack GNU RISC-V Embedded GCC x86_64) ]
+        ignore line: [COLLECT_GCC_OPTIONS='-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_cf201.dir/CMakeCCompilerABI.c.obj' '-c' '-march=rv32imac' '-mabi=ilp32' '-misa-spec=20191213' '-march=rv32imac' '-dumpdir' 'CMakeFiles/cmTC_cf201.dir/']
+        ignore line: [ c:/risc-v/xpack-riscv-none-elf-gcc/bin/../libexec/gcc/riscv-none-elf/12.2.0/cc1.exe -quiet -v -iprefix c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/ -isysroot c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../riscv-none-elf C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_cf201.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -march=rv32imac -mabi=ilp32 -misa-spec=20191213 -march=rv32imac -std=gnu11 -version -o C:\\Users\\user\\AppData\\Local\\Temp\\cckjsSwf.s]
+        ignore line: [GNU C11 (xPack GNU RISC-V Embedded GCC x86_64) version 12.2.0 (riscv-none-elf)]
+        ignore line: [	compiled by GNU C version 11.2.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version isl-0.24-GMP]
+        ignore line: []
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [ignoring duplicate directory "c:/risc-v/xpack-riscv-none-elf-gcc/lib/gcc/../../lib/gcc/riscv-none-elf/12.2.0/include"]
+        ignore line: [ignoring nonexistent directory "c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../riscv-none-elf/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/lib/gcc/riscv-none-elf/12.2.0/../../../../include"]
+        ignore line: [ignoring duplicate directory "c:/risc-v/xpack-riscv-none-elf-gcc/lib/gcc/../../lib/gcc/riscv-none-elf/12.2.0/include-fixed"]
+        ignore line: [ignoring duplicate directory "c:/risc-v/xpack-riscv-none-elf-gcc/lib/gcc/../../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include"]
+        ignore line: [ignoring duplicate directory "c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../riscv-none-elf/include"]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/include]
+        ignore line: [ c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/include-fixed]
+        ignore line: [ c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include]
+        ignore line: [End of search list.]
+        ignore line: [GNU C11 (xPack GNU RISC-V Embedded GCC x86_64) version 12.2.0 (riscv-none-elf)]
+        ignore line: [	compiled by GNU C version 11.2.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version isl-0.24-GMP]
+        ignore line: []
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [Compiler executable checksum: 7fec2cd4a37ba8613cae242a4d4a5a44]
+        ignore line: [COLLECT_GCC_OPTIONS='-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_cf201.dir/CMakeCCompilerABI.c.obj' '-c' '-march=rv32imac' '-mabi=ilp32' '-misa-spec=20191213' '-march=rv32imac' '-dumpdir' 'CMakeFiles/cmTC_cf201.dir/']
+        ignore line: [ c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/bin/as.exe -v --traditional-format -march=rv32imac -march=rv32imac -mabi=ilp32 -misa-spec=20191213 -o CMakeFiles/cmTC_cf201.dir/CMakeCCompilerABI.c.obj C:\\Users\\user\\AppData\\Local\\Temp\\cckjsSwf.s]
+        ignore line: [GNU assembler version 2.38 (riscv-none-elf) using BFD version (xPack GNU RISC-V Embedded GCC x86_64) 2.38]
+        ignore line: [COMPILER_PATH=c:/risc-v/xpack-riscv-none-elf-gcc/bin/../libexec/gcc/riscv-none-elf/12.2.0/]
+        ignore line: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../libexec/gcc/]
+        ignore line: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/bin/]
+        ignore line: [LIBRARY_PATH=c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/]
+        ignore line: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/]
+        ignore line: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/]
+        ignore line: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../riscv-none-elf/lib/]
+        ignore line: [COLLECT_GCC_OPTIONS='-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_cf201.dir/CMakeCCompilerABI.c.obj' '-c' '-march=rv32imac' '-mabi=ilp32' '-misa-spec=20191213' '-march=rv32imac' '-dumpdir' 'CMakeFiles/cmTC_cf201.dir/CMakeCCompilerABI.c.']
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f libcmTC_cf201.a && C:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-ar.exe qc libcmTC_cf201.a  CMakeFiles/cmTC_cf201.dir/CMakeCCompilerABI.c.obj && C:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-ranlib.exe libcmTC_cf201.a && cd ."]
+        ignore line: []
+        ignore line: []
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake:81 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:66 (PROJECT)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build/CMakeFiles/CMakeScratch/TryCompile-l5tqra"
+      binary: "C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build/CMakeFiles/CMakeScratch/TryCompile-l5tqra"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build/CMakeFiles/CMakeScratch/TryCompile-l5tqra'
+        
+        Run Build Command(s): C:/WCH/Ninja/ninja.exe -v cmTC_59f9e
+        [1/2] c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-g++.exe   -std=gnu++11   -v -o CMakeFiles/cmTC_59f9e.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCXXCompilerABI.cpp"
+        Using built-in specs.
+        COLLECT_GCC=c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-g++.exe
+        Target: riscv-none-elf
+        Configured with: /Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/sources/gcc-12.2.0/configure --prefix=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc --prefix=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc --infodir=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/share/doc/info --mandir=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/share/doc/man --htmldir=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/share/doc/html --pdfdir=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/share/doc/pdf --build=x86_64-pc-linux-gnu --host=x86_64-w64-mingw32 --target=riscv-none-elf --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libsanitizer --disable-libssp --disable-nls --disable-shared --disable-threads --disable-tls --enable-checking=release --enable-languages=c,c++,fortran --enable-mingw-wildcard --with-gmp=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/libs --with-newlib --with-pkgversion='xPack GNU RISC-V Embedded GCC x86_64' --with-gnu-as --with-gnu-ld --with-system-zlib --with-sysroot=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/riscv-none-elf --with-native-system-header-dir=/include --with-abi=ilp32 --with-arch=rv32imac --enable-multilib
+        Thread model: single
+        Supported LTO compression algorithms: zlib
+        gcc version 12.2.0 (xPack GNU RISC-V Embedded GCC x86_64) 
+        COLLECT_GCC_OPTIONS='-std=gnu++11' '-v' '-o' 'CMakeFiles/cmTC_59f9e.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-march=rv32imac' '-mabi=ilp32' '-misa-spec=20191213' '-march=rv32imac' '-dumpdir' 'CMakeFiles/cmTC_59f9e.dir/'
+         c:/risc-v/xpack-riscv-none-elf-gcc/bin/../libexec/gcc/riscv-none-elf/12.2.0/cc1plus.exe -quiet -v -iprefix c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/ -isysroot c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../riscv-none-elf C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_59f9e.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -march=rv32imac -mabi=ilp32 -misa-spec=20191213 -march=rv32imac -std=gnu++11 -version -o C:\\Users\\user\\AppData\\Local\\Temp\\cciQdf64.s
+        GNU C++11 (xPack GNU RISC-V Embedded GCC x86_64) version 12.2.0 (riscv-none-elf)
+        	compiled by GNU C version 11.2.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.24-GMP
+        
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        ignoring duplicate directory "c:/risc-v/xpack-riscv-none-elf-gcc/lib/gcc/../../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include/c++/12.2.0"
+        ignoring duplicate directory "c:/risc-v/xpack-riscv-none-elf-gcc/lib/gcc/../../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include/c++/12.2.0/riscv-none-elf"
+        ignoring duplicate directory "c:/risc-v/xpack-riscv-none-elf-gcc/lib/gcc/../../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include/c++/12.2.0/backward"
+        ignoring duplicate directory "c:/risc-v/xpack-riscv-none-elf-gcc/lib/gcc/../../lib/gcc/riscv-none-elf/12.2.0/include"
+        ignoring nonexistent directory "c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../riscv-none-elf/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/lib/gcc/riscv-none-elf/12.2.0/../../../../include"
+        ignoring duplicate directory "c:/risc-v/xpack-riscv-none-elf-gcc/lib/gcc/../../lib/gcc/riscv-none-elf/12.2.0/include-fixed"
+        ignoring duplicate directory "c:/risc-v/xpack-riscv-none-elf-gcc/lib/gcc/../../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include"
+        ignoring duplicate directory "c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../riscv-none-elf/include"
+        #include "..." search starts here:
+        #include <...> search starts here:
+         c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include/c++/12.2.0
+         c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include/c++/12.2.0/riscv-none-elf
+         c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include/c++/12.2.0/backward
+         c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/include
+         c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/include-fixed
+         c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include
+        End of search list.
+        GNU C++11 (xPack GNU RISC-V Embedded GCC x86_64) version 12.2.0 (riscv-none-elf)
+        	compiled by GNU C version 11.2.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.24-GMP
+        
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        Compiler executable checksum: 1270be86560efe278ee71f001baad8b6
+        COLLECT_GCC_OPTIONS='-std=gnu++11' '-v' '-o' 'CMakeFiles/cmTC_59f9e.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-march=rv32imac' '-mabi=ilp32' '-misa-spec=20191213' '-march=rv32imac' '-dumpdir' 'CMakeFiles/cmTC_59f9e.dir/'
+         c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/bin/as.exe -v --traditional-format -march=rv32imac -march=rv32imac -mabi=ilp32 -misa-spec=20191213 -o CMakeFiles/cmTC_59f9e.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\user\\AppData\\Local\\Temp\\cciQdf64.s
+        GNU assembler version 2.38 (riscv-none-elf) using BFD version (xPack GNU RISC-V Embedded GCC x86_64) 2.38
+        COMPILER_PATH=c:/risc-v/xpack-riscv-none-elf-gcc/bin/../libexec/gcc/riscv-none-elf/12.2.0/;c:/risc-v/xpack-riscv-none-elf-gcc/bin/../libexec/gcc/;c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/bin/
+        LIBRARY_PATH=c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/;c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/;c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/;c:/risc-v/xpack-riscv-none-elf-gcc/bin/../riscv-none-elf/lib/
+        COLLECT_GCC_OPTIONS='-std=gnu++11' '-v' '-o' 'CMakeFiles/cmTC_59f9e.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-march=rv32imac' '-mabi=ilp32' '-misa-spec=20191213' '-march=rv32imac' '-dumpdir' 'CMakeFiles/cmTC_59f9e.dir/CMakeCXXCompilerABI.cpp.'
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f libcmTC_59f9e.a && C:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-ar.exe qc libcmTC_59f9e.a  CMakeFiles/cmTC_59f9e.dir/CMakeCXXCompilerABI.cpp.obj && C:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-ranlib.exe libcmTC_59f9e.a && cd ."
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake:189 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:66 (PROJECT)"
+    message: |
+      Parsed CXX implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include/c++/12.2.0]
+          add: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include/c++/12.2.0/riscv-none-elf]
+          add: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include/c++/12.2.0/backward]
+          add: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/include]
+          add: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/include-fixed]
+          add: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include]
+        end of search list found
+        collapse include dir [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include/c++/12.2.0] ==> [C:/RISC-V/xpack-riscv-none-elf-gcc/riscv-none-elf/include/c++/12.2.0]
+        collapse include dir [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include/c++/12.2.0/riscv-none-elf] ==> [C:/RISC-V/xpack-riscv-none-elf-gcc/riscv-none-elf/include/c++/12.2.0/riscv-none-elf]
+        collapse include dir [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include/c++/12.2.0/backward] ==> [C:/RISC-V/xpack-riscv-none-elf-gcc/riscv-none-elf/include/c++/12.2.0/backward]
+        collapse include dir [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/include] ==> [C:/RISC-V/xpack-riscv-none-elf-gcc/lib/gcc/riscv-none-elf/12.2.0/include]
+        collapse include dir [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/include-fixed] ==> [C:/RISC-V/xpack-riscv-none-elf-gcc/lib/gcc/riscv-none-elf/12.2.0/include-fixed]
+        collapse include dir [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include] ==> [C:/RISC-V/xpack-riscv-none-elf-gcc/riscv-none-elf/include]
+        implicit include dirs: [C:/RISC-V/xpack-riscv-none-elf-gcc/riscv-none-elf/include/c++/12.2.0;C:/RISC-V/xpack-riscv-none-elf-gcc/riscv-none-elf/include/c++/12.2.0/riscv-none-elf;C:/RISC-V/xpack-riscv-none-elf-gcc/riscv-none-elf/include/c++/12.2.0/backward;C:/RISC-V/xpack-riscv-none-elf-gcc/lib/gcc/riscv-none-elf/12.2.0/include;C:/RISC-V/xpack-riscv-none-elf-gcc/lib/gcc/riscv-none-elf/12.2.0/include-fixed;C:/RISC-V/xpack-riscv-none-elf-gcc/riscv-none-elf/include]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake:225 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:66 (PROJECT)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
+        ignore line: [Change Dir: 'C:/RISC-V/CH32V003/CH32V003_SSD1306_dma/build/CMakeFiles/CMakeScratch/TryCompile-l5tqra']
+        ignore line: []
+        ignore line: [Run Build Command(s): C:/WCH/Ninja/ninja.exe -v cmTC_59f9e]
+        ignore line: [[1/2] c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-g++.exe   -std=gnu++11   -v -o CMakeFiles/cmTC_59f9e.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCXXCompilerABI.cpp"]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=c:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-g++.exe]
+        ignore line: [Target: riscv-none-elf]
+        ignore line: [Configured with: /Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/sources/gcc-12.2.0/configure --prefix=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc --prefix=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc --infodir=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/share/doc/info --mandir=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/share/doc/man --htmldir=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/share/doc/html --pdfdir=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/share/doc/pdf --build=x86_64-pc-linux-gnu --host=x86_64-w64-mingw32 --target=riscv-none-elf --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libsanitizer --disable-libssp --disable-nls --disable-shared --disable-threads --disable-tls --enable-checking=release --enable-languages=c,c++,fortran --enable-mingw-wildcard --with-gmp=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/libs --with-newlib --with-pkgversion='xPack GNU RISC-V Embedded GCC x86_64' --with-gnu-as --with-gnu-ld --with-system-zlib --with-sysroot=/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/riscv-none-elf --with-native-system-header-dir=/include --with-abi=ilp32 --with-arch=rv32imac --enable-multilib]
+        ignore line: [Thread model: single]
+        ignore line: [Supported LTO compression algorithms: zlib]
+        ignore line: [gcc version 12.2.0 (xPack GNU RISC-V Embedded GCC x86_64) ]
+        ignore line: [COLLECT_GCC_OPTIONS='-std=gnu++11' '-v' '-o' 'CMakeFiles/cmTC_59f9e.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-march=rv32imac' '-mabi=ilp32' '-misa-spec=20191213' '-march=rv32imac' '-dumpdir' 'CMakeFiles/cmTC_59f9e.dir/']
+        ignore line: [ c:/risc-v/xpack-riscv-none-elf-gcc/bin/../libexec/gcc/riscv-none-elf/12.2.0/cc1plus.exe -quiet -v -iprefix c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/ -isysroot c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../riscv-none-elf C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_59f9e.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -march=rv32imac -mabi=ilp32 -misa-spec=20191213 -march=rv32imac -std=gnu++11 -version -o C:\\Users\\user\\AppData\\Local\\Temp\\cciQdf64.s]
+        ignore line: [GNU C++11 (xPack GNU RISC-V Embedded GCC x86_64) version 12.2.0 (riscv-none-elf)]
+        ignore line: [	compiled by GNU C version 11.2.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version isl-0.24-GMP]
+        ignore line: []
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [ignoring duplicate directory "c:/risc-v/xpack-riscv-none-elf-gcc/lib/gcc/../../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include/c++/12.2.0"]
+        ignore line: [ignoring duplicate directory "c:/risc-v/xpack-riscv-none-elf-gcc/lib/gcc/../../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include/c++/12.2.0/riscv-none-elf"]
+        ignore line: [ignoring duplicate directory "c:/risc-v/xpack-riscv-none-elf-gcc/lib/gcc/../../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include/c++/12.2.0/backward"]
+        ignore line: [ignoring duplicate directory "c:/risc-v/xpack-riscv-none-elf-gcc/lib/gcc/../../lib/gcc/riscv-none-elf/12.2.0/include"]
+        ignore line: [ignoring nonexistent directory "c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../riscv-none-elf/Host/home/slava/Work/riscv-none-elf-gcc-12.2.0-1/win32-x64/install/riscv-none-elf-gcc/lib/gcc/riscv-none-elf/12.2.0/../../../../include"]
+        ignore line: [ignoring duplicate directory "c:/risc-v/xpack-riscv-none-elf-gcc/lib/gcc/../../lib/gcc/riscv-none-elf/12.2.0/include-fixed"]
+        ignore line: [ignoring duplicate directory "c:/risc-v/xpack-riscv-none-elf-gcc/lib/gcc/../../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include"]
+        ignore line: [ignoring duplicate directory "c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../riscv-none-elf/include"]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include/c++/12.2.0]
+        ignore line: [ c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include/c++/12.2.0/riscv-none-elf]
+        ignore line: [ c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include/c++/12.2.0/backward]
+        ignore line: [ c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/include]
+        ignore line: [ c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/include-fixed]
+        ignore line: [ c:\\risc-v\\xpack-riscv-none-elf-gcc\\bin\\../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/include]
+        ignore line: [End of search list.]
+        ignore line: [GNU C++11 (xPack GNU RISC-V Embedded GCC x86_64) version 12.2.0 (riscv-none-elf)]
+        ignore line: [	compiled by GNU C version 11.2.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version isl-0.24-GMP]
+        ignore line: []
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [Compiler executable checksum: 1270be86560efe278ee71f001baad8b6]
+        ignore line: [COLLECT_GCC_OPTIONS='-std=gnu++11' '-v' '-o' 'CMakeFiles/cmTC_59f9e.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-march=rv32imac' '-mabi=ilp32' '-misa-spec=20191213' '-march=rv32imac' '-dumpdir' 'CMakeFiles/cmTC_59f9e.dir/']
+        ignore line: [ c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/bin/as.exe -v --traditional-format -march=rv32imac -march=rv32imac -mabi=ilp32 -misa-spec=20191213 -o CMakeFiles/cmTC_59f9e.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\user\\AppData\\Local\\Temp\\cciQdf64.s]
+        ignore line: [GNU assembler version 2.38 (riscv-none-elf) using BFD version (xPack GNU RISC-V Embedded GCC x86_64) 2.38]
+        ignore line: [COMPILER_PATH=c:/risc-v/xpack-riscv-none-elf-gcc/bin/../libexec/gcc/riscv-none-elf/12.2.0/]
+        ignore line: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../libexec/gcc/]
+        ignore line: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/bin/]
+        ignore line: [LIBRARY_PATH=c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/]
+        ignore line: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/]
+        ignore line: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/]
+        ignore line: [c:/risc-v/xpack-riscv-none-elf-gcc/bin/../riscv-none-elf/lib/]
+        ignore line: [COLLECT_GCC_OPTIONS='-std=gnu++11' '-v' '-o' 'CMakeFiles/cmTC_59f9e.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-march=rv32imac' '-mabi=ilp32' '-misa-spec=20191213' '-march=rv32imac' '-dumpdir' 'CMakeFiles/cmTC_59f9e.dir/CMakeCXXCompilerABI.cpp.']
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f libcmTC_59f9e.a && C:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-ar.exe qc libcmTC_59f9e.a  CMakeFiles/cmTC_59f9e.dir/CMakeCXXCompilerABI.cpp.obj && C:\\RISC-V\\xpack-riscv-none-elf-gcc\\bin\\riscv-none-elf-ranlib.exe libcmTC_59f9e.a && cd ."]
+        ignore line: []
+        ignore line: []
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+...

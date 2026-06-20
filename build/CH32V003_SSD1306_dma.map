@@ -1,0 +1,1618 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+                              CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj (__mulsi3)
+c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+                              CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj (__divsi3)
+c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-atoi.o)
+                              CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj (atoi)
+c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strlen.o)
+                              CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj (strlen)
+c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strstr.o)
+                              CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj (strstr)
+c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strtol.o)
+                              c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-atoi.o) (_strtol_r)
+c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-ctype_.o)
+                              c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strtol.o) (_ctype_)
+c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-errno.o)
+                              c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strtol.o) (__errno)
+c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-impure.o)
+                              c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strtol.o) (_impure_ptr)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .text.__get_MSTATUS
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .text.__set_MSTATUS
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .text.__get_MISA
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .text.__set_MISA
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .text.__get_MTVEC
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .text.__set_MTVEC
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .text.__get_MSCRATCH
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .text.__set_MSCRATCH
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .text.__get_MEPC
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .text.__set_MEPC
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .text.__get_MCAUSE
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .text.__set_MCAUSE
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .text.__get_MVENDORID
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .text.__get_MARCHID
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .text.__get_MIMPID
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .text.__get_MHARTID
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .text.__get_SP
+                0x0000000000000000       0x18 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .debug_info    0x0000000000000000      0x2fd CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .debug_abbrev  0x0000000000000000       0xe3 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .debug_aranges
+                0x0000000000000000       0xa0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .debug_rnglists
+                0x0000000000000000       0xa6 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .debug_line    0x0000000000000000      0x2f5 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .debug_str     0x0000000000000000      0x23f CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .debug_line_str
+                0x0000000000000000      0x178 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .debug_frame   0x0000000000000000      0x274 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .riscv.attributes
+                0x0000000000000000       0x25 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_DeInit
+                0x0000000000000000       0x42 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_Init
+                0x0000000000000000       0xf2 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_StructInit
+                0x0000000000000000       0x44 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_Cmd  0x0000000000000000       0x3e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_DMACmd
+                0x0000000000000000       0x3e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_ITConfig
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_ResetCalibration
+                0x0000000000000000       0x22 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_GetResetCalibrationStatus
+                0x0000000000000000       0x30 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_StartCalibration
+                0x0000000000000000       0x22 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_GetCalibrationStatus
+                0x0000000000000000       0x30 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_SoftwareStartConvCmd
+                0x0000000000000000       0x44 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_GetSoftwareStartConvStatus
+                0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_DiscModeChannelCountConfig
+                0x0000000000000000       0x5c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_DiscModeCmd
+                0x0000000000000000       0x46 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_RegularChannelConfig
+                0x0000000000000000      0x248 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_ExternalTrigConvCmd
+                0x0000000000000000       0x44 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_GetConversionValue
+                0x0000000000000000       0x1c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_AutoInjectedConvCmd
+                0x0000000000000000       0x3e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_InjectedDiscModeCmd
+                0x0000000000000000       0x40 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x0000000000000000       0x4a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_ExternalTrigInjectedConvCmd
+                0x0000000000000000       0x40 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_SoftwareStartInjectedConvCmd
+                0x0000000000000000       0x44 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_InjectedChannelConfig
+                0x0000000000000000      0x19c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_InjectedSequencerLengthConfig
+                0x0000000000000000       0x5e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_SetInjectedOffset
+                0x0000000000000000       0x46 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_GetInjectedConversionValue
+                0x0000000000000000       0x40 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_AnalogWatchdogCmd
+                0x0000000000000000       0x4e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x0000000000000000       0x48 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_GetFlagStatus
+                0x0000000000000000       0x3a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_ClearFlag
+                0x0000000000000000       0x26 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_GetITStatus
+                0x0000000000000000       0x6a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_ClearITPendingBit
+                0x0000000000000000       0x38 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_Calibration_Vol
+                0x0000000000000000       0x3c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text.ADC_ExternalTrig_DLY
+                0x0000000000000000       0x50 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .debug_info    0x0000000000000000      0xb8f CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .debug_abbrev  0x0000000000000000      0x17b CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .debug_aranges
+                0x0000000000000000      0x138 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .debug_rnglists
+                0x0000000000000000      0x151 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .debug_line    0x0000000000000000      0xe5e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .debug_str     0x0000000000000000      0x73f CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .debug_line_str
+                0x0000000000000000      0x22c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .debug_frame   0x0000000000000000      0x524 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .riscv.attributes
+                0x0000000000000000       0x21 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+ .text.DBGMCU_GetREVID
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+ .text.DBGMCU_GetDEVID
+                0x0000000000000000       0x1e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+ .text.__get_DEBUG_CR
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+ .text.__set_DEBUG_CR
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+ .text.DBGMCU_Config
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+ .debug_info    0x0000000000000000      0x165 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+ .debug_abbrev  0x0000000000000000       0xf9 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+ .debug_aranges
+                0x0000000000000000       0x40 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+ .debug_rnglists
+                0x0000000000000000       0x3a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+ .debug_line    0x0000000000000000      0x148 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+ .debug_str     0x0000000000000000      0x1e7 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+ .debug_line_str
+                0x0000000000000000      0x1d5 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+ .debug_frame   0x0000000000000000       0xc8 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+ .riscv.attributes
+                0x0000000000000000       0x25 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .text.DMA_DeInit
+                0x0000000000000000      0x136 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .text.DMA_Init
+                0x0000000000000000       0xa8 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .text.DMA_StructInit
+                0x0000000000000000       0x6a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .text.DMA_ITConfig
+                0x0000000000000000       0x4a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .text.DMA_SetCurrDataCounter
+                0x0000000000000000       0x22 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .text.DMA_GetCurrDataCounter
+                0x0000000000000000       0x1c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .text.DMA_GetFlagStatus
+                0x0000000000000000       0x40 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .text.DMA_ClearFlag
+                0x0000000000000000       0x1c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .text.DMA_GetITStatus
+                0x0000000000000000       0x40 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .text.DMA_ClearITPendingBit
+                0x0000000000000000       0x1c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .text.EXTI_DeInit
+                0x0000000000000000       0x4e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .text.EXTI_Init
+                0x0000000000000000      0x170 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .text.EXTI_StructInit
+                0x0000000000000000       0x32 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .text.EXTI_GenerateSWInterrupt
+                0x0000000000000000       0x2c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .text.EXTI_GetFlagStatus
+                0x0000000000000000       0x38 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .text.EXTI_ClearFlag
+                0x0000000000000000       0x20 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .text.EXTI_GetITStatus
+                0x0000000000000000       0x56 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .text.EXTI_ClearITPendingBit
+                0x0000000000000000       0x20 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .debug_info    0x0000000000000000      0x32e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .debug_abbrev  0x0000000000000000      0x119 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .debug_aranges
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .debug_rnglists
+                0x0000000000000000       0x55 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .debug_line    0x0000000000000000      0x423 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .debug_str     0x0000000000000000      0x341 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .debug_line_str
+                0x0000000000000000      0x221 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .debug_frame   0x0000000000000000      0x130 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .riscv.attributes
+                0x0000000000000000       0x21 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_SetLatency
+                0x0000000000000000       0x44 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_Unlock
+                0x0000000000000000       0x2a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_Lock
+                0x0000000000000000       0x1e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_ErasePage
+                0x0000000000000000       0x82 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_EraseAllPages
+                0x0000000000000000       0x74 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_EraseOptionBytes
+                0x0000000000000000      0x114 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_ProgramWord
+                0x0000000000000000       0xc0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_ProgramOptionByteData
+                0x0000000000000000       0xa0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_EnableWriteProtection
+                0x0000000000000000      0x114 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_ReadOutProtection
+                0x0000000000000000      0x118 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_UserOptionByteConfig
+                0x0000000000000000       0xda CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_GetUserOptionByte
+                0x0000000000000000       0x16 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_GetWriteProtectionOptionByte
+                0x0000000000000000       0x14 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_GetReadOutProtectionStatus
+                0x0000000000000000       0x2c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_ITConfig
+                0x0000000000000000       0x46 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_GetFlagStatus
+                0x0000000000000000       0x56 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_ClearFlag
+                0x0000000000000000       0x1c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_GetStatus
+                0x0000000000000000       0x48 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_WaitForLastBank1Operation
+                0x0000000000000000       0x60 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_BufReset
+                0x0000000000000000       0x4e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_BufLoad
+                0x0000000000000000       0x78 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.FLASH_ProgramPage_Fast
+                0x0000000000000000       0x72 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text.SystemReset_StartMode
+                0x0000000000000000       0x6e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .text.GPIO_DeInit
+                0x0000000000000000       0x92 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .text.GPIO_AFIODeInit
+                0x0000000000000000       0x2a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .text.GPIO_Init
+                0x0000000000000000      0x22e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .text.GPIO_StructInit
+                0x0000000000000000       0x2c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .text.GPIO_ReadInputDataBit
+                0x0000000000000000       0x3a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .text.GPIO_ReadInputData
+                0x0000000000000000       0x1c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .text.GPIO_ReadOutputDataBit
+                0x0000000000000000       0x3a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .text.GPIO_ReadOutputData
+                0x0000000000000000       0x1c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .text.GPIO_SetBits
+                0x0000000000000000       0x22 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .text.GPIO_ResetBits
+                0x0000000000000000       0x22 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .text.GPIO_WriteBit
+                0x0000000000000000       0x38 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .text.GPIO_Write
+                0x0000000000000000       0x22 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .text.GPIO_PinLockConfig
+                0x0000000000000000       0x5e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .text.GPIO_PinRemapConfig
+                0x0000000000000000      0x1e6 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .text.GPIO_EXTILineConfig
+                0x0000000000000000       0x64 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .debug_info    0x0000000000000000      0x604 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .debug_abbrev  0x0000000000000000      0x1ad CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .debug_aranges
+                0x0000000000000000       0x90 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .debug_rnglists
+                0x0000000000000000       0x94 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .debug_line    0x0000000000000000      0x7d7 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .debug_str     0x0000000000000000      0x4be CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .debug_line_str
+                0x0000000000000000      0x230 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .debug_frame   0x0000000000000000      0x234 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .riscv.attributes
+                0x0000000000000000       0x21 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_DeInit
+                0x0000000000000000       0x42 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_Init
+                0x0000000000000000      0x230 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_StructInit
+                0x0000000000000000       0x4c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_Cmd  0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_DMACmd
+                0x0000000000000000       0x66 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_DMALastTransferCmd
+                0x0000000000000000       0x60 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_GenerateSTART
+                0x0000000000000000       0x5a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_GenerateSTOP
+                0x0000000000000000       0x5a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_AcknowledgeConfig
+                0x0000000000000000       0x5a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_OwnAddress2Config
+                0x0000000000000000       0x60 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_DualAddressCmd
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_GeneralCallCmd
+                0x0000000000000000       0x5a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_ITConfig
+                0x0000000000000000       0x6e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_SendData
+                0x0000000000000000       0x2a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_ReceiveData
+                0x0000000000000000       0x22 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_Send7bitAddress
+                0x0000000000000000       0x50 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_ReadRegister
+                0x0000000000000000       0x3e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_SoftwareResetCmd
+                0x0000000000000000       0x60 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_NACKPositionConfig
+                0x0000000000000000       0x6c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_TransmitPEC
+                0x0000000000000000       0x60 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_PECPositionConfig
+                0x0000000000000000       0x6c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_CalculatePEC
+                0x0000000000000000       0x5a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_GetPEC
+                0x0000000000000000       0x28 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_ARPCmd
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_StretchClockCmd
+                0x0000000000000000       0x5a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_FastModeDutyCycleConfig
+                0x0000000000000000       0x66 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_CheckEvent
+                0x0000000000000000       0x88 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_GetLastEvent
+                0x0000000000000000       0x62 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_GetFlagStatus
+                0x0000000000000000       0x88 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_ClearFlag
+                0x0000000000000000       0x44 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_GetITStatus
+                0x0000000000000000       0x76 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text.I2C_ClearITPendingBit
+                0x0000000000000000       0x44 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .debug_info    0x0000000000000000      0xaa6 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .debug_abbrev  0x0000000000000000      0x196 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .debug_aranges
+                0x0000000000000000      0x118 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .debug_rnglists
+                0x0000000000000000      0x12d CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .debug_line    0x0000000000000000      0xb90 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .debug_str     0x0000000000000000      0x667 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .debug_line_str
+                0x0000000000000000      0x22c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .debug_frame   0x0000000000000000      0x498 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .riscv.attributes
+                0x0000000000000000       0x21 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .text.IWDG_WriteAccessCmd
+                0x0000000000000000       0x1e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .text.IWDG_SetPrescaler
+                0x0000000000000000       0x1e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .text.IWDG_SetReload
+                0x0000000000000000       0x1e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .text.IWDG_ReloadCounter
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .text.IWDG_Enable
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .text.IWDG_GetFlagStatus
+                0x0000000000000000       0x36 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .debug_info    0x0000000000000000      0x1e2 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .debug_abbrev  0x0000000000000000      0x118 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .debug_aranges
+                0x0000000000000000       0x48 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .debug_rnglists
+                0x0000000000000000       0x43 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .debug_line    0x0000000000000000      0x184 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .debug_str     0x0000000000000000      0x253 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .debug_line_str
+                0x0000000000000000      0x211 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .debug_frame   0x0000000000000000       0xe8 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .riscv.attributes
+                0x0000000000000000       0x21 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .text.NVIC_EnableIRQ
+                0x0000000000000000       0x32 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .text.NVIC_DisableIRQ
+                0x0000000000000000       0x32 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .text.NVIC_SetPriority
+                0x0000000000000000       0x2a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .bss.NVIC_Priority_Group
+                0x0000000000000000        0x4 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .text.NVIC_PriorityGroupConfig
+                0x0000000000000000       0x1e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .text.NVIC_Init
+                0x0000000000000000      0x272 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .debug_info    0x0000000000000000      0x4d2 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .debug_abbrev  0x0000000000000000      0x1b8 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .debug_aranges
+                0x0000000000000000       0x40 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .debug_rnglists
+                0x0000000000000000       0x3a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .debug_line    0x0000000000000000      0x394 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .debug_str     0x0000000000000000      0x4c6 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .debug_line_str
+                0x0000000000000000      0x221 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .debug_frame   0x0000000000000000       0xc8 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .riscv.attributes
+                0x0000000000000000       0x21 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_opa.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_opa.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_opa.c.obj
+ .text.OPA_DeInit
+                0x0000000000000000       0x2a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_opa.c.obj
+ .text.OPA_Init
+                0x0000000000000000       0x60 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_opa.c.obj
+ .text.OPA_StructInit
+                0x0000000000000000       0x22 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_opa.c.obj
+ .text.OPA_Cmd  0x0000000000000000       0x50 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_opa.c.obj
+ .debug_info    0x0000000000000000      0x1db CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_opa.c.obj
+ .debug_abbrev  0x0000000000000000      0x111 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_opa.c.obj
+ .debug_aranges
+                0x0000000000000000       0x38 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_opa.c.obj
+ .debug_rnglists
+                0x0000000000000000       0x31 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_opa.c.obj
+ .debug_line    0x0000000000000000      0x178 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_opa.c.obj
+ .debug_str     0x0000000000000000      0x222 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_opa.c.obj
+ .debug_line_str
+                0x0000000000000000      0x21d CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_opa.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_opa.c.obj
+ .debug_frame   0x0000000000000000       0xa0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_opa.c.obj
+ .riscv.attributes
+                0x0000000000000000       0x21 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_opa.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .text.PWR_DeInit
+                0x0000000000000000       0x2e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .text.PWR_PVDCmd
+                0x0000000000000000       0x38 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .text.PWR_PVDLevelConfig
+                0x0000000000000000       0x44 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .text.PWR_AutoWakeUpCmd
+                0x0000000000000000       0x38 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .text.PWR_AWU_SetPrescaler
+                0x0000000000000000       0x3a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .text.PWR_AWU_SetWindowValue
+                0x0000000000000000       0x3e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .text.PWR_EnterSTANDBYMode
+                0x0000000000000000       0xf2 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .text.PWR_GetFlagStatus
+                0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .debug_info    0x0000000000000000      0x515 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .debug_abbrev  0x0000000000000000      0x1ce CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .debug_aranges
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .debug_rnglists
+                0x0000000000000000       0x55 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .debug_line    0x0000000000000000      0x347 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .debug_str     0x0000000000000000      0x38b CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .debug_line_str
+                0x0000000000000000      0x21d CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .debug_frame   0x0000000000000000      0x134 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .riscv.attributes
+                0x0000000000000000       0x25 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .data.APBAHBPrescTable
+                0x0000000000000000       0x10 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .data.ADCPrescTable
+                0x0000000000000000       0x14 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_DeInit
+                0x0000000000000000       0x74 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_HSEConfig
+                0x0000000000000000       0x76 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_WaitForHSEStartUp
+                0x0000000000000000       0x68 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_AdjustHSICalibrationValue
+                0x0000000000000000       0x48 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_HSICmd
+                0x0000000000000000       0x38 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_PLLConfig
+                0x0000000000000000       0x48 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_PLLCmd
+                0x0000000000000000       0x40 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_SYSCLKConfig
+                0x0000000000000000       0x42 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_GetSYSCLKSource
+                0x0000000000000000       0x1e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_HCLKConfig
+                0x0000000000000000       0x44 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_ITConfig
+                0x0000000000000000       0x6c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_ADCCLKConfig
+                0x0000000000000000       0x48 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_LSICmd
+                0x0000000000000000       0x38 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_GetClocksFreq
+                0x0000000000000000      0x1c6 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_AHBPeriphClockCmd
+                0x0000000000000000       0x46 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_APB2PeriphClockCmd
+                0x0000000000000000       0x46 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_APB1PeriphClockCmd
+                0x0000000000000000       0x46 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_APB2PeriphResetCmd
+                0x0000000000000000       0x46 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_APB1PeriphResetCmd
+                0x0000000000000000       0x46 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_ClockSecuritySystemCmd
+                0x0000000000000000       0x40 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_MCOConfig
+                0x0000000000000000       0x22 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_GetFlagStatus
+                0x0000000000000000       0x78 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_ClearFlag
+                0x0000000000000000       0x20 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_GetITStatus
+                0x0000000000000000       0x36 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text.RCC_ClearITPendingBit
+                0x0000000000000000       0x22 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .debug_info    0x0000000000000000      0x717 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .debug_abbrev  0x0000000000000000      0x1e3 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .debug_aranges
+                0x0000000000000000       0xe0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .debug_rnglists
+                0x0000000000000000       0xee CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .debug_line    0x0000000000000000      0xa22 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .debug_str     0x0000000000000000      0x566 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .debug_line_str
+                0x0000000000000000      0x21d CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .debug_frame   0x0000000000000000      0x39c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .riscv.attributes
+                0x0000000000000000       0x21 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_I2S_DeInit
+                0x0000000000000000       0x3a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_Init
+                0x0000000000000000       0xd4 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_StructInit
+                0x0000000000000000       0x54 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_Cmd  0x0000000000000000       0x5a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_I2S_ITConfig
+                0x0000000000000000       0x92 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_I2S_DMACmd
+                0x0000000000000000       0x6e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_I2S_SendData
+                0x0000000000000000       0x24 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_I2S_ReceiveData
+                0x0000000000000000       0x1e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_NSSInternalSoftwareConfig
+                0x0000000000000000       0x64 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_SSOutputCmd
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_DataSizeConfig
+                0x0000000000000000       0x5c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_TransmitCRC
+                0x0000000000000000       0x32 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_CalculateCRC
+                0x0000000000000000       0x60 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_GetCRC
+                0x0000000000000000       0x44 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_GetCRCPolynomial
+                0x0000000000000000       0x1e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_BiDirectionalLineConfig
+                0x0000000000000000       0x66 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_I2S_GetFlagStatus
+                0x0000000000000000       0x44 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_I2S_ClearFlag
+                0x0000000000000000       0x2e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_I2S_GetITStatus
+                0x0000000000000000       0x98 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text.SPI_I2S_ClearITPendingBit
+                0x0000000000000000       0x42 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .debug_info    0x0000000000000000      0x72b CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .debug_abbrev  0x0000000000000000      0x1a5 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .debug_aranges
+                0x0000000000000000       0xb8 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .debug_rnglists
+                0x0000000000000000       0xc1 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .debug_line    0x0000000000000000      0x690 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .debug_str     0x0000000000000000      0x4ee CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .debug_line_str
+                0x0000000000000000      0x22c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .debug_frame   0x0000000000000000      0x2e4 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .riscv.attributes
+                0x0000000000000000       0x21 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_DeInit
+                0x0000000000000000       0x6c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_TimeBaseInit
+                0x0000000000000000       0xd6 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC1Init
+                0x0000000000000000      0x170 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC2Init
+                0x0000000000000000      0x1ac CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC3Init
+                0x0000000000000000      0x1aa CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC4Init
+                0x0000000000000000      0x148 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_ICInit
+                0x0000000000000000      0x13e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_PWMIConfig
+                0x0000000000000000      0x14a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_BDTRConfig
+                0x0000000000000000       0x86 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_TimeBaseStructInit
+                0x0000000000000000       0x3c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OCStructInit
+                0x0000000000000000       0x52 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_ICStructInit
+                0x0000000000000000       0x3c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_BDTRStructInit
+                0x0000000000000000       0x4a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_Cmd  0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_CtrlPWMOutputs
+                0x0000000000000000       0x60 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_ITConfig
+                0x0000000000000000       0x6e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_GenerateEvent
+                0x0000000000000000       0x24 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_DMAConfig
+                0x0000000000000000       0x3a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_DMACmd
+                0x0000000000000000       0x6e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_InternalClockConfig
+                0x0000000000000000       0x2e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_ITRxExternalClockConfig
+                0x0000000000000000       0x4c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_TIxExternalClockConfig
+                0x0000000000000000       0x9c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_ETRClockMode1Config
+                0x0000000000000000       0x90 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_ETRClockMode2Config
+                0x0000000000000000       0x66 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_ETRConfig
+                0x0000000000000000       0x76 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_PrescalerConfig
+                0x0000000000000000       0x38 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_CounterModeConfig
+                0x0000000000000000       0x50 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SelectInputTrigger
+                0x0000000000000000       0x50 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_EncoderInterfaceConfig
+                0x0000000000000000       0xd6 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_ForcedOC1Config
+                0x0000000000000000       0x50 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_ForcedOC2Config
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_ForcedOC3Config
+                0x0000000000000000       0x50 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_ForcedOC4Config
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_ARRPreloadConfig
+                0x0000000000000000       0x5a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SelectCOM
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SelectCCDMA
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_CCPreloadControl
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC1PreloadConfig
+                0x0000000000000000       0x4e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC2PreloadConfig
+                0x0000000000000000       0x5a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC3PreloadConfig
+                0x0000000000000000       0x4e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC4PreloadConfig
+                0x0000000000000000       0x5a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC1FastConfig
+                0x0000000000000000       0x4e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC2FastConfig
+                0x0000000000000000       0x54 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC3FastConfig
+                0x0000000000000000       0x4e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC4FastConfig
+                0x0000000000000000       0x54 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_ClearOC1Ref
+                0x0000000000000000       0x50 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_ClearOC2Ref
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_ClearOC3Ref
+                0x0000000000000000       0x50 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_ClearOC4Ref
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC1PolarityConfig
+                0x0000000000000000       0x4e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC1NPolarityConfig
+                0x0000000000000000       0x4e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC2PolarityConfig
+                0x0000000000000000       0x54 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC2NPolarityConfig
+                0x0000000000000000       0x54 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC3PolarityConfig
+                0x0000000000000000       0x54 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC3NPolarityConfig
+                0x0000000000000000       0x5a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_OC4PolarityConfig
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_CCxCmd
+                0x0000000000000000       0x8a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_CCxNCmd
+                0x0000000000000000       0x8a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SelectOCxM
+                0x0000000000000000      0x106 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_UpdateDisableConfig
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_UpdateRequestConfig
+                0x0000000000000000       0x5a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SelectHallSensor
+                0x0000000000000000       0x5a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SelectOnePulseMode
+                0x0000000000000000       0x54 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SelectOutputTrigger
+                0x0000000000000000       0x56 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SelectSlaveMode
+                0x0000000000000000       0x54 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SelectMasterSlaveMode
+                0x0000000000000000       0x56 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SetCounter
+                0x0000000000000000       0x24 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SetAutoreload
+                0x0000000000000000       0x24 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SetCompare1
+                0x0000000000000000       0x22 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SetCompare2
+                0x0000000000000000       0x22 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SetCompare3
+                0x0000000000000000       0x22 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SetCompare4
+                0x0000000000000000       0x22 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SetIC1Prescaler
+                0x0000000000000000       0x54 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SetIC2Prescaler
+                0x0000000000000000       0x64 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SetIC3Prescaler
+                0x0000000000000000       0x54 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SetIC4Prescaler
+                0x0000000000000000       0x64 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_SetClockDivision
+                0x0000000000000000       0x56 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_GetCapture1
+                0x0000000000000000       0x1c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_GetCapture2
+                0x0000000000000000       0x1c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_GetCapture3
+                0x0000000000000000       0x1c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_GetCapture4
+                0x0000000000000000       0x1c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_GetCounter
+                0x0000000000000000       0x1e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_GetPrescaler
+                0x0000000000000000       0x1e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_GetFlagStatus
+                0x0000000000000000       0x44 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_ClearFlag
+                0x0000000000000000       0x2e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_GetITStatus
+                0x0000000000000000       0x6c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TIM_ClearITPendingBit
+                0x0000000000000000       0x2e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TI1_Config
+                0x0000000000000000      0x126 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TI2_Config
+                0x0000000000000000      0x14e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TI3_Config
+                0x0000000000000000      0x140 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text.TI4_Config
+                0x0000000000000000      0x162 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .debug_info    0x0000000000000000     0x1bc1 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .debug_abbrev  0x0000000000000000      0x1fa CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .debug_aranges
+                0x0000000000000000      0x2f0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .debug_rnglists
+                0x0000000000000000      0x340 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .debug_line    0x0000000000000000     0x1f9c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .debug_str     0x0000000000000000      0xe04 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .debug_line_str
+                0x0000000000000000      0x22c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .debug_frame   0x0000000000000000      0xcf8 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .riscv.attributes
+                0x0000000000000000       0x21 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_DeInit
+                0x0000000000000000       0x3e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_Init
+                0x0000000000000000      0x26c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_StructInit
+                0x0000000000000000       0x48 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_ClockInit
+                0x0000000000000000       0x8e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_ClockStructInit
+                0x0000000000000000       0x32 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_Cmd
+                0x0000000000000000       0x60 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_ITConfig
+                0x0000000000000000       0xc4 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_DMACmd
+                0x0000000000000000       0x6e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_SetAddress
+                0x0000000000000000       0x5a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_WakeUpConfig
+                0x0000000000000000       0x5c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_ReceiverWakeUpCmd
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_LINBreakDetectLengthConfig
+                0x0000000000000000       0x56 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_LINCmd
+                0x0000000000000000       0x60 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_SendData
+                0x0000000000000000       0x2e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_ReceiveData
+                0x0000000000000000       0x26 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_SendBreak
+                0x0000000000000000       0x30 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_SetGuardTime
+                0x0000000000000000       0x62 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_SetPrescaler
+                0x0000000000000000       0x5c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_SmartCardCmd
+                0x0000000000000000       0x5a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_SmartCardNACKCmd
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_HalfDuplexCmd
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_OverSampling8Cmd
+                0x0000000000000000       0x60 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_OneBitMethodCmd
+                0x0000000000000000       0x66 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_IrDAConfig
+                0x0000000000000000       0x54 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_IrDACmd
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_GetFlagStatus
+                0x0000000000000000       0x44 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_ClearFlag
+                0x0000000000000000       0x2e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_GetITStatus
+                0x0000000000000000      0x102 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text.USART_ClearITPendingBit
+                0x0000000000000000       0x4e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .debug_info    0x0000000000000000      0x9c2 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .debug_abbrev  0x0000000000000000      0x1ca CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .debug_aranges
+                0x0000000000000000      0x100 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .debug_rnglists
+                0x0000000000000000      0x112 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .debug_line    0x0000000000000000      0xb57 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .debug_str     0x0000000000000000      0x6b3 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .debug_line_str
+                0x0000000000000000      0x234 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .debug_frame   0x0000000000000000      0x42c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .riscv.attributes
+                0x0000000000000000       0x21 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .text.WWDG_DeInit
+                0x0000000000000000       0x32 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .text.WWDG_SetPrescaler
+                0x0000000000000000       0x44 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .text.WWDG_SetWindowValue
+                0x0000000000000000       0x4a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .text.WWDG_EnableIT
+                0x0000000000000000       0x26 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .text.WWDG_SetCounter
+                0x0000000000000000       0x26 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .text.WWDG_Enable
+                0x0000000000000000       0x2a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .text.WWDG_GetFlagStatus
+                0x0000000000000000       0x18 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .text.WWDG_ClearFlag
+                0x0000000000000000       0x1a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .debug_info    0x0000000000000000      0x22b CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .debug_abbrev  0x0000000000000000      0x146 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .debug_aranges
+                0x0000000000000000       0x58 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .debug_rnglists
+                0x0000000000000000       0x55 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .debug_line    0x0000000000000000      0x21d CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .debug_str     0x0000000000000000      0x276 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .debug_line_str
+                0x0000000000000000      0x220 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .comment       0x0000000000000000       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .debug_frame   0x0000000000000000      0x134 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .riscv.attributes
+                0x0000000000000000       0x21 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Startup/startup_ch32v00x.S.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Startup/startup_ch32v00x.S.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Startup/startup_ch32v00x.S.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+ .text.LCD_mode
+                0x0000000000000000       0x96 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+ .text.BUF_ClearStr
+                0x0000000000000000       0x7c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+ .text.BUF_PrintDec
+                0x0000000000000000      0x13a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+ .text.BUF_PrintHex
+                0x0000000000000000      0x172 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+ .text.BUF_PrintBin
+                0x0000000000000000       0xca CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+ .text.BUF_12Char
+                0x0000000000000000      0x13e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/ch32v00x_it.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/ch32v00x_it.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/ch32v00x_it.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+ .bss.rec_cur   0x0000000000000000        0x2 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+ .text.EXTI0_IRQHandler
+                0x0000000000000000       0x10 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+ .data.AHBPrescTable
+                0x0000000000000000       0x10 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+ .text.SystemCoreClockUpdate
+                0x0000000000000000      0x122 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+ .data          0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+ .bss           0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+ .data          0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+ .bss           0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+ .text          0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-atoi.o)
+ .data          0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-atoi.o)
+ .bss           0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-atoi.o)
+ .text._atoi_r  0x0000000000000000        0xc c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-atoi.o)
+ .text          0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strstr.o)
+ .data          0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strstr.o)
+ .bss           0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strstr.o)
+ .text          0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strtol.o)
+ .data          0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strtol.o)
+ .bss           0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strtol.o)
+ .text._strtol_r
+                0x0000000000000000        0x8 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strtol.o)
+ .text.strtol_l
+                0x0000000000000000       0x16 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strtol.o)
+ .text          0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-ctype_.o)
+ .data          0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-ctype_.o)
+ .bss           0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-ctype_.o)
+ .text          0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-impure.o)
+ .srodata._global_impure_ptr
+                0x0000000000000000        0x4 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-impure.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000004000 xr
+RAM              0x0000000020000000 0x0000000000000800 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Core/core_riscv.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_adc.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dbgmcu.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_exti.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_gpio.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_i2c.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_iwdg.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_misc.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_opa.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_pwr.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_rcc.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_spi.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_tim.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_usart.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_wwdg.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Startup/startup_ch32v00x.S.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/ch32v00x_it.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+LOAD CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+LOAD c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/rv32ec/ilp32e\libgcc.a
+LOAD c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a
+LOAD c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a
+LOAD c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/rv32ec/ilp32e\libgcc.a
+START GROUP
+LOAD c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/rv32ec/ilp32e\libgcc.a
+LOAD c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a
+LOAD c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/rv32ec/ilp32e\libgcc.a
+LOAD c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libc_nano.a
+LOAD c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libnosys.a
+END GROUP
+                0x0000000000000100                __stack_size = 0x100
+                [!provide]                        PROVIDE (_stack_size = __stack_size)
+
+.init           0x0000000000000000       0xa0
+                0x0000000000000000                _sinit = .
+                0x0000000000000000                . = ALIGN (0x4)
+ *(SORT_NONE(.init))
+ .init          0x0000000000000000       0x9e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Startup/startup_ch32v00x.S.obj
+                0x0000000000000000                _start
+                0x00000000000000a0                . = ALIGN (0x4)
+ *fill*         0x000000000000009e        0x2 
+                0x00000000000000a0                _einit = .
+
+.text           0x00000000000000a0     0x337c
+                0x00000000000000a0                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000000000000a0       0x16 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+                0x00000000000000a0                __mulsi3
+ *fill*         0x00000000000000b6        0x2 
+ .text          0x00000000000000b8       0x7e c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+                0x00000000000000b8                __divsi3
+                0x00000000000000c0                __udivsi3
+                0x00000000000000c0                __hidden___udivsi3
+                0x00000000000000ec                __umodsi3
+                0x0000000000000110                __modsi3
+ *(.text.*)
+ .text.DMA_Cmd  0x0000000000000136       0x40 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+                0x0000000000000136                DMA_Cmd
+ .text.FLASH_ProgramHalfWord
+                0x0000000000000176       0x6a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+                0x0000000000000176                FLASH_ProgramHalfWord
+ .text.FLASH_GetBank1Status
+                0x00000000000001e0       0x48 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+                0x00000000000001e0                FLASH_GetBank1Status
+ .text.FLASH_WaitForLastOperation
+                0x0000000000000228       0x54 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+                0x0000000000000228                FLASH_WaitForLastOperation
+ .text.FLASH_Unlock_Fast
+                0x000000000000027c       0x46 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+                0x000000000000027c                FLASH_Unlock_Fast
+ .text.FLASH_Lock_Fast
+                0x00000000000002c2       0x1e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+                0x00000000000002c2                FLASH_Lock_Fast
+ .text.FLASH_ErasePage_Fast
+                0x00000000000002e0       0x74 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+                0x00000000000002e0                FLASH_ErasePage_Fast
+ .text.vector_handler
+                0x0000000000000354       0x36 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Startup/startup_ch32v00x.S.obj
+                0x000000000000035a                SW_Handler
+                0x000000000000035c                WWDG_IRQHandler
+                0x000000000000035e                PVD_IRQHandler
+                0x0000000000000360                FLASH_IRQHandler
+                0x0000000000000362                RCC_IRQHandler
+                0x0000000000000364                EXTI7_0_IRQHandler
+                0x0000000000000366                AWU_IRQHandler
+                0x0000000000000368                DMA1_Channel1_IRQHandler
+                0x000000000000036a                DMA1_Channel2_IRQHandler
+                0x000000000000036c                DMA1_Channel3_IRQHandler
+                0x000000000000036e                DMA1_Channel4_IRQHandler
+                0x0000000000000374                DMA1_Channel7_IRQHandler
+                0x0000000000000376                ADC1_IRQHandler
+                0x0000000000000378                I2C1_EV_IRQHandler
+                0x000000000000037a                I2C1_ER_IRQHandler
+                0x000000000000037e                SPI1_IRQHandler
+                0x0000000000000380                TIM1_BRK_IRQHandler
+                0x0000000000000382                TIM1_UP_IRQHandler
+                0x0000000000000384                TIM1_TRG_COM_IRQHandler
+                0x0000000000000386                TIM1_CC_IRQHandler
+                0x0000000000000388                TIM2_IRQHandler
+ .text.handle_reset
+                0x000000000000038a       0x7c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Startup/startup_ch32v00x.S.obj
+                0x000000000000038a                handle_reset
+ .text.I2C_write
+                0x0000000000000406       0x40 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x0000000000000406                I2C_write
+ .text.I2C_Start
+                0x0000000000000446      0x120 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x0000000000000446                I2C_Start
+ .text.I2C_Stop
+                0x0000000000000566       0x7a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x0000000000000566                I2C_Stop
+ .text.CMD      0x00000000000005e0       0x6c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x00000000000005e0                CMD
+ .text.LCD_Init
+                0x000000000000064c       0xbc CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x000000000000064c                LCD_Init
+ .text.LCD_update
+                0x0000000000000708       0x9e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x0000000000000708                LCD_update
+ .text.BUF_Char
+                0x00000000000007a6      0x10e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x00000000000007a6                BUF_Char
+ .text.BUF_PrintStr
+                0x00000000000008b4       0x4a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x00000000000008b4                BUF_PrintStr
+ .text.BUF_Clear
+                0x00000000000008fe       0x40 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x00000000000008fe                BUF_Clear
+ .text.BUF_Gotoxy
+                0x000000000000093e       0x40 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x000000000000093e                BUF_Gotoxy
+ .text.BUF_PrintDig12
+                0x000000000000097e      0x244 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x000000000000097e                BUF_PrintDig12
+ .text.BUF_PrintDig24
+                0x0000000000000bc2      0x2f8 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x0000000000000bc2                BUF_PrintDig24
+ .text.BUF_24Char
+                0x0000000000000eba      0x190 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x0000000000000eba                BUF_24Char
+ .text.BUF_cut_tail12
+                0x000000000000104a       0x6c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x000000000000104a                BUF_cut_tail12
+ .text.BUF_cut_tail24
+                0x00000000000010b6       0x82 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x00000000000010b6                BUF_cut_tail24
+ .text.NMI_Handler
+                0x0000000000001138       0x10 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/ch32v00x_it.c.obj
+                0x0000000000001138                NMI_Handler
+ .text.HardFault_Handler
+                0x0000000000001148        0x8 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/ch32v00x_it.c.obj
+                0x0000000000001148                HardFault_Handler
+ .text.NVIC_EnableIRQ
+                0x0000000000001150       0x32 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+ .text.NVIC_SetPriority
+                0x0000000000001182       0x2a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+ .text.DelayMs  0x00000000000011ac       0x32 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x00000000000011ac                DelayMs
+ .text.init     0x00000000000011de      0x31e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x00000000000011de                init
+ .text.key_scan
+                0x00000000000014fc      0x1be CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x00000000000014fc                key_scan
+ .text.lcd_routine
+                0x00000000000016ba      0x612 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x00000000000016ba                lcd_routine
+ .text.parse_value
+                0x0000000000001ccc       0x5e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000000001ccc                parse_value
+ .text.parse_telemetry_manual
+                0x0000000000001d2a      0x1b4 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000000001d2a                parse_telemetry_manual
+ .text.main     0x0000000000001ede      0x4a8 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000000001ede                main
+ .text.SysTick_Handler
+                0x0000000000002386      0x10c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000000002386                SysTick_Handler
+ .text.USART1_IRQHandler
+                0x0000000000002492       0x72 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000000002492                USART1_IRQHandler
+ .text.DMA1_Channel5_IRQHandler
+                0x0000000000002504       0x6c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000000002504                DMA1_Channel5_IRQHandler
+ .text.DMA1_Channel6_IRQHandler
+                0x0000000000002570       0x4a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000000002570                DMA1_Channel6_IRQHandler
+ .text.SystemInit
+                0x00000000000025ba       0x7a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+                0x00000000000025ba                SystemInit
+ .text.SetSysClock
+                0x0000000000002634       0x14 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+ .text.SetSysClockTo_48MHZ_HSI
+                0x0000000000002648       0xaa CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+ .text.atoi     0x00000000000026f2        0x6 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-atoi.o)
+                0x00000000000026f2                atoi
+ .text.strlen   0x00000000000026f8       0x12 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strlen.o)
+                0x00000000000026f8                strlen
+ .text.strstr   0x000000000000270a       0x36 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strstr.o)
+                0x000000000000270a                strstr
+ .text._strtol_l.constprop.0
+                0x0000000000002740      0x186 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strtol.o)
+ .text.strtol   0x00000000000028c6       0x12 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strtol.o)
+                0x00000000000028c6                strtol
+ .text.__errno  0x00000000000028d8        0xa c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-errno.o)
+                0x00000000000028d8                __errno
+ *(.rodata)
+ *fill*         0x00000000000028e2        0x2 
+ .rodata        0x00000000000028e4      0x133 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+ *(.rodata*)
+ *fill*         0x0000000000002a17        0x1 
+ .rodata.init_lcd
+                0x0000000000002a18       0x12 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x0000000000002a18                init_lcd
+ *fill*         0x0000000000002a2a        0x2 
+ .rodata.font   0x0000000000002a2c      0x460 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x0000000000002a2c                font
+ .rodata.dig1216
+                0x0000000000002e8c      0x180 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x0000000000002e8c                dig1216
+ .rodata.dig1624
+                0x000000000000300c      0x300 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x000000000000300c                dig1624
+ .rodata.wheel_d
+                0x000000000000330c        0xa CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x000000000000330c                wheel_d
+ *fill*         0x0000000000003316        0x2 
+ .rodata._ctype_
+                0x0000000000003318      0x101 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-ctype_.o)
+                0x0000000000003318                _ctype_
+ *(.gnu.linkonce.t.*)
+                0x000000000000341c                . = ALIGN (0x4)
+ *fill*         0x0000000000003419        0x3 
+
+.rela.dyn       0x000000000000341c        0x0
+ .rela.init     0x000000000000341c        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .rela.text.handle_reset
+                0x000000000000341c        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .rela.data.impure_data
+                0x000000000000341c        0x0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+
+.fini           0x000000000000341c        0x0
+ *(SORT_NONE(.fini))
+                0x000000000000341c                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (_eitcm = .)
+
+.preinit_array  0x000000000000341c        0x0
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x000000000000341c        0x0
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+                [!provide]                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x000000000000341c        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.dalign         0x0000000020000000        0x0 load address 0x000000000000341c
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                PROVIDE (_data_vma = .)
+
+.dlalign        0x000000000000341c        0x0
+                0x000000000000341c                . = ALIGN (0x4)
+                0x000000000000341c                PROVIDE (_data_lma = .)
+
+.data           0x0000000020000000       0x78 load address 0x000000000000341c
+                0x0000000020000000                . = ALIGN (0x4)
+ *(.gnu.linkonce.r.*)
+ *(.data .data.*)
+ .data.EEP_REG  0x0000000020000000        0x4 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000020000000                EEP_REG
+ .data.work_page
+                0x0000000020000004        0x1 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000020000004                work_page
+ .data.data_timer
+                0x0000000020000005        0x1 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000020000005                data_timer
+ *fill*         0x0000000020000006        0x2 
+ .data.SystemCoreClock
+                0x0000000020000008        0x4 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+                0x0000000020000008                SystemCoreClock
+ .data.impure_data
+                0x000000002000000c       0x60 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-impure.o)
+ *(.gnu.linkonce.d.*)
+                0x0000000020000070                . = ALIGN (0x8)
+ *fill*         0x000000002000006c        0x4 
+                0x0000000020000870                PROVIDE (__global_pointer$ = (. + 0x800))
+ *(.sdata .sdata.*)
+ .sdata._impure_ptr
+                0x0000000020000070        0x4 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-impure.o)
+                0x0000000020000070                _impure_ptr
+ *(.sdata2*)
+ *(.gnu.linkonce.s.*)
+                0x0000000020000078                . = ALIGN (0x8)
+ *fill*         0x0000000020000074        0x4 
+ *(.srodata.cst16)
+ *(.srodata.cst8)
+ *(.srodata.cst4)
+ *(.srodata.cst2)
+ *(.srodata .srodata.*)
+                0x0000000020000078                . = ALIGN (0x4)
+                0x0000000020000078                PROVIDE (_edata = .)
+
+.bss            0x0000000020000078      0x4e8 load address 0x0000000000003494
+                0x0000000020000078                . = ALIGN (0x4)
+                0x0000000020000078                PROVIDE (_sbss = .)
+ *(.sbss*)
+ *(.gnu.linkonce.sb.*)
+ *(.bss*)
+ .bss.lcd_buf   0x0000000020000078      0x401 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x0000000020000078                lcd_buf
+ *fill*         0x0000000020000479        0x1 
+ .bss.pointer   0x000000002000047a        0x2 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x000000002000047a                pointer
+ .bss.i2c_timeout
+                0x000000002000047c        0x2 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                0x000000002000047c                i2c_timeout
+ .bss.TimingDelay
+                0x000000002000047e        0x2 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x000000002000047e                TimingDelay
+ .bss.i2c_ack_stat
+                0x0000000020000480        0x4 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000020000480                i2c_ack_stat
+ .bss.count_lcd
+                0x0000000020000484        0x2 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000020000484                count_lcd
+ .bss.but_press
+                0x0000000020000486        0x2 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000020000486                but_press
+ .bss.blink     0x0000000020000488        0x2 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000020000488                blink
+ .bss.word_flag
+                0x000000002000048a        0x1 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x000000002000048a                word_flag
+ *fill*         0x000000002000048b        0x1 
+ .bss.RX_BUF    0x000000002000048c       0x96 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x000000002000048c                RX_BUF
+ .bss.timer     0x0000000020000522        0x2 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000020000522                timer
+ .bss.hour      0x0000000020000524        0x1 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000020000524                hour
+ .bss.min       0x0000000020000525        0x1 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000020000525                min
+ .bss.sec       0x0000000020000526        0x1 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000020000526                sec
+ *fill*         0x0000000020000527        0x1 
+ .bss.vel_temp  0x0000000020000528        0x2 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000020000528                vel_temp
+ *fill*         0x000000002000052a        0x2 
+ .bss.odometr   0x000000002000052c        0x4 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x000000002000052c                odometr
+ .bss.od_tick   0x0000000020000530        0x1 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000020000530                od_tick
+ *fill*         0x0000000020000531        0x3 
+ .bss.amph      0x0000000020000534        0x4 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000020000534                amph
+ .bss.wheel     0x0000000020000538        0x1 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000020000538                wheel
+ *fill*         0x0000000020000539        0x3 
+ .bss._data     0x000000002000053c       0x18 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x000000002000053c                _data
+ .bss.cur       0x0000000020000554        0x2 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000020000554                cur
+ .bss.max_cur   0x0000000020000556        0x2 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000020000556                max_cur
+ .bss.speed     0x0000000020000558        0x4 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x0000000020000558                speed
+ .bss.max_speed
+                0x000000002000055c        0x1 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x000000002000055c                max_speed
+ .bss.lcd_out_enable
+                0x000000002000055d        0x1 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                0x000000002000055d                lcd_out_enable
+ *(.gnu.linkonce.b.*)
+ *(COMMON*)
+                0x0000000020000560                . = ALIGN (0x4)
+ *fill*         0x000000002000055e        0x2 
+                0x0000000020000560                PROVIDE (_ebss = .)
+                [!provide]                        PROVIDE (_end = _ebss)
+                [!provide]                        PROVIDE (end = .)
+
+.stack          0x0000000020000560      0x100 load address 0x0000000000003494
+                [!provide]                        PROVIDE (_heap_end = .)
+                0x0000000020000560                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_susrstack = .)
+                0x0000000020000660                . = (. + __stack_size)
+ *fill*         0x0000000020000560      0x100 
+                0x0000000020000660                PROVIDE (_eusrstack = .)
+OUTPUT(CH32V003_SSD1306_dma.elf elf32-littleriscv)
+
+.debug_info     0x0000000000000000     0x2518
+ .debug_info    0x0000000000000000      0x443 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .debug_info    0x0000000000000443      0x758 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .debug_info    0x0000000000000b9b       0x23 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Startup/startup_ch32v00x.S.obj
+ .debug_info    0x0000000000000bbe      0x8e0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+ .debug_info    0x000000000000149e       0x47 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/ch32v00x_it.c.obj
+ .debug_info    0x00000000000014e5      0xdc7 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+ .debug_info    0x00000000000022ac      0x26c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+
+.debug_abbrev   0x0000000000000000      0x9fc
+ .debug_abbrev  0x0000000000000000      0x168 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .debug_abbrev  0x0000000000000168      0x1f7 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .debug_abbrev  0x000000000000035f       0x12 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Startup/startup_ch32v00x.S.obj
+ .debug_abbrev  0x0000000000000371      0x21b CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+ .debug_abbrev  0x000000000000058c       0x2f CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/ch32v00x_it.c.obj
+ .debug_abbrev  0x00000000000005bb      0x2f8 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+ .debug_abbrev  0x00000000000008b3      0x149 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+
+.debug_aranges  0x0000000000000000      0x348
+ .debug_aranges
+                0x0000000000000000       0x70 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .debug_aranges
+                0x0000000000000070      0x100 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .debug_aranges
+                0x0000000000000170       0x30 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Startup/startup_ch32v00x.S.obj
+ .debug_aranges
+                0x00000000000001a0       0xc0 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+ .debug_aranges
+                0x0000000000000260       0x28 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/ch32v00x_it.c.obj
+ .debug_aranges
+                0x0000000000000288       0x88 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+ .debug_aranges
+                0x0000000000000310       0x38 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+
+.debug_rnglists
+                0x0000000000000000      0x348
+ .debug_rnglists
+                0x0000000000000000       0x70 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .debug_rnglists
+                0x0000000000000070      0x112 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .debug_rnglists
+                0x0000000000000182       0x21 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Startup/startup_ch32v00x.S.obj
+ .debug_rnglists
+                0x00000000000001a3       0xca CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+ .debug_rnglists
+                0x000000000000026d       0x1f CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/ch32v00x_it.c.obj
+ .debug_rnglists
+                0x000000000000028c       0x8b CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+ .debug_rnglists
+                0x0000000000000317       0x31 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+
+.debug_line     0x0000000000000000     0x3e73
+ .debug_line    0x0000000000000000      0x4db CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .debug_line    0x00000000000004db      0xe5c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .debug_line    0x0000000000001337      0x1aa CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Startup/startup_ch32v00x.S.obj
+ .debug_line    0x00000000000014e1     0x1397 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+ .debug_line    0x0000000000002878       0x70 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/ch32v00x_it.c.obj
+ .debug_line    0x00000000000028e8     0x129d CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+ .debug_line    0x0000000000003b85      0x2ee CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+
+.debug_str      0x0000000000000000      0xeeb
+ .debug_str     0x0000000000000000      0x349 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+                                        0x3a8 (size before relaxing)
+ .debug_str     0x0000000000000349      0x3c2 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+                                        0x5b1 (size before relaxing)
+ .debug_str     0x000000000000070b       0x7d CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Startup/startup_ch32v00x.S.obj
+ .debug_str     0x0000000000000788      0x23a CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                                        0x426 (size before relaxing)
+ .debug_str     0x00000000000009c2       0x1e CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/ch32v00x_it.c.obj
+                                         0xde (size before relaxing)
+ .debug_str     0x00000000000009e0      0x4ae CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                                        0x8b0 (size before relaxing)
+ .debug_str     0x0000000000000e8e       0x5d CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+                                        0x281 (size before relaxing)
+
+.debug_line_str
+                0x0000000000000000      0x43d
+ .debug_line_str
+                0x0000000000000000      0x1c6 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+                                        0x21d (size before relaxing)
+ .debug_line_str
+                0x00000000000001c6       0x59 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+                                        0x225 (size before relaxing)
+ .debug_line_str
+                0x000000000000021f       0x43 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Startup/startup_ch32v00x.S.obj
+                                         0x84 (size before relaxing)
+ .debug_line_str
+                0x0000000000000262       0x6f CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+                                        0x20d (size before relaxing)
+ .debug_line_str
+                0x00000000000002d1       0x3b CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/ch32v00x_it.c.obj
+                                         0xe0 (size before relaxing)
+ .debug_line_str
+                0x000000000000030c       0xf2 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+                                        0x2b8 (size before relaxing)
+ .debug_line_str
+                0x00000000000003fe       0x3f CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+                                        0x1db (size before relaxing)
+
+.comment        0x0000000000000000       0x33
+ .comment       0x0000000000000000       0x33 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+                                         0x34 (size before relaxing)
+ .comment       0x0000000000000033       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/ch32v00x_it.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+ .comment       0x0000000000000033       0x34 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+ .comment       0x0000000000000033       0x34 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-atoi.o)
+ .comment       0x0000000000000033       0x34 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strlen.o)
+ .comment       0x0000000000000033       0x34 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strstr.o)
+ .comment       0x0000000000000033       0x34 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strtol.o)
+ .comment       0x0000000000000033       0x34 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-ctype_.o)
+ .comment       0x0000000000000033       0x34 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-errno.o)
+ .comment       0x0000000000000033       0x34 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-impure.o)
+
+.riscv.attributes
+                0x0000000000000000       0x25
+ .riscv.attributes
+                0x0000000000000000       0x21 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .riscv.attributes
+                0x0000000000000021       0x21 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .riscv.attributes
+                0x0000000000000042       0x23 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Startup/startup_ch32v00x.S.obj
+ .riscv.attributes
+                0x0000000000000065       0x21 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+ .riscv.attributes
+                0x0000000000000086       0x25 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/ch32v00x_it.c.obj
+ .riscv.attributes
+                0x00000000000000ab       0x25 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+ .riscv.attributes
+                0x00000000000000d0       0x21 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
+ .riscv.attributes
+                0x00000000000000f1       0x1f c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/rv32ec/ilp32e\libgcc.a(muldi3.o)
+ .riscv.attributes
+                0x0000000000000110       0x1f c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/rv32ec/ilp32e\libgcc.a(div.o)
+ .riscv.attributes
+                0x000000000000012f       0x21 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-atoi.o)
+ .riscv.attributes
+                0x0000000000000150       0x21 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strlen.o)
+ .riscv.attributes
+                0x0000000000000171       0x21 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strstr.o)
+ .riscv.attributes
+                0x0000000000000192       0x21 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-strtol.o)
+ .riscv.attributes
+                0x00000000000001b3       0x21 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-ctype_.o)
+ .riscv.attributes
+                0x00000000000001d4       0x21 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-errno.o)
+ .riscv.attributes
+                0x00000000000001f5       0x21 c:/risc-v/xpack-riscv-none-elf-gcc/bin/../lib/gcc/riscv-none-elf/12.2.0/../../../../riscv-none-elf/lib/rv32ec/ilp32e\libg_nano.a(lib_a-impure.o)
+
+.debug_frame    0x0000000000000000      0xc2c
+ .debug_frame   0x0000000000000000      0x19c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_dma.c.obj
+ .debug_frame   0x000000000000019c      0x454 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/Peripheral/SRC/ch32v00x_flash.c.obj
+ .debug_frame   0x00000000000005f0      0x32c CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/SSD1306_DMA.c.obj
+ .debug_frame   0x000000000000091c       0x50 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/ch32v00x_it.c.obj
+ .debug_frame   0x000000000000096c      0x214 CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/main.c.obj
+ .debug_frame   0x0000000000000b80       0xac CMakeFiles/CH32V003_SSD1306_dma.elf.dir/User/system_ch32v00x.c.obj
